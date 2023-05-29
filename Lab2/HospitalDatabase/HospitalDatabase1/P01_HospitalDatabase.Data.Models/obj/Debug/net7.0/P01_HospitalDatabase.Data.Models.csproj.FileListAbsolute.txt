@@ -1,0 +1,36 @@
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\bin\Debug\net7.0\P01_HospitalDatabase.Data.Models.deps.json
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\bin\Debug\net7.0\P01_HospitalDatabase.Data.Models.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\bin\Debug\net7.0\P01_HospitalDatabase.Data.Models.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.csproj.AssemblyReference.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.AssemblyInfoInputs.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.AssemblyInfo.cs
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\refint\P01_HospitalDatabase.Data.Models.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\ref\P01_HospitalDatabase.Data.Models.dll
+D:\Навчання\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\bin\Debug\net7.0\P01_HospitalDatabase.Data.Models.deps.json
+D:\Навчання\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\bin\Debug\net7.0\P01_HospitalDatabase.Data.Models.dll
+D:\Навчання\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\bin\Debug\net7.0\P01_HospitalDatabase.Data.Models.pdb
+D:\Навчання\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.csproj.AssemblyReference.cache
+D:\Навчання\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.AssemblyInfoInputs.cache
+D:\Навчання\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.AssemblyInfo.cs
+D:\Навчання\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.csproj.CoreCompileInputs.cache
+D:\Навчання\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.dll
+D:\Навчання\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\refint\P01_HospitalDatabase.Data.Models.dll
+D:\Навчання\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.pdb
+D:\Навчання\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\ref\P01_HospitalDatabase.Data.Models.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\bin\Debug\net7.0\P01_HospitalDatabase.Data.Models.deps.json
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\bin\Debug\net7.0\P01_HospitalDatabase.Data.Models.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\bin\Debug\net7.0\P01_HospitalDatabase.Data.Models.pdb
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.csproj.AssemblyReference.cache
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.AssemblyInfoInputs.cache
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.AssemblyInfo.cs
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.csproj.CoreCompileInputs.cache
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\refint\P01_HospitalDatabase.Data.Models.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\P01_HospitalDatabase.Data.Models.pdb
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\01\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net7.0\ref\P01_HospitalDatabase.Data.Models.dll
