@@ -1,157 +1,155 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using MovieManagement.DAL.Repositories.Contracts;
-using MovieManagement.DAL.Entities;
+﻿using Microsoft.AspNetCore.Mvc;
+using MovieManagement.BLL.DTO;
+using MovieManagement.BLL.Services.Consracts;
 
 
-namespace MyEventsWebApi.Controllers
+
+namespace MovieManagement.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("ado/[controller]")]
     [ApiController]
     public class MovieController : ControllerBase
     {
-        private readonly ILogger<MovieController> _logger;
-       
-        private IUnitOfWork _ADOuow;
-        public MovieController(ILogger<MovieController> logger,
+        IMovieService _movieService;
 
-        IUnitOfWork ado_unitofwork)
+        public MovieController(IMovieService MovieService)
         {
-            _logger = logger;
-          
-            _ADOuow = ado_unitofwork;
+            _movieService = MovieService;
         }
 
-        //GET: api/events
-        [HttpGet]
-        public async Task<ActionResult<IEnumerable<Movie>>> GetAllEventsAsync()
+
+
+        [HttpGet] // GET: ado/Movie
+        public async Task<ActionResult<IEnumerable<MovieDTO>>> GetAllAsync()
         {
             try
             {
-                var results = await _ADOuow._movieRepository.GetAllAsync();
-                _ADOuow.Commit();
-                _logger.LogInformation($"Отримали всі івенти з бази даних!");
-                return Ok(results);
+                var result = await _movieService.GetAllAsync();
+                Console.WriteLine("All Movie were successfully extracted from [Movie]");
+
+                return Ok(result);
             }
             catch (Exception ex)
             {
-                _logger.LogError($"Транзакція сфейлилась! Щось пішло не так у методі GetAllEventsAsync() - {ex.Message}");
-                return StatusCode(StatusCodes.Status500InternalServerError, "вот так вот!");
+                Console.WriteLine("Error in [MovieConstoller]->[GetAllAsync]\n " + ex.Message);
+                return BadRequest(ex.Message);
             }
         }
 
-        //GET: api/events/Id
-        [HttpGet("{id}")]
-        public async Task<ActionResult<Movie>> GetByIdAsync(int id)
+        [HttpGet("{id}")] // GET: ado/Movie/id
+        public async Task<ActionResult<MovieDTO>> GetByIdAsync(int id)
         {
             try
             {
-                var result = await _ADOuow._movieRepository.GetAsync(id);
-                _ADOuow.Commit();
-                if (result  == null)
+                var result = await _movieService.GetAsync(id); // чи взагалі є такий запис в БД
+
+                if (result == null)
                 {
-                    _logger.LogInformation($"Івент із Id: {id}, не був знайдейний у базі даних");
+                    Console.WriteLine($"Movie {id} from [Movie] not found");
                     return NotFound();
                 }
                 else
                 {
-                    _logger.LogInformation($"Отримали івент з бази даних!");
+                    Console.WriteLine($"Movie {result.movie_id} were successfully extracted from [Movie]");
                     return Ok(result);
                 }
 
             }
             catch (Exception ex)
             {
-                _logger.LogError($"Транзакція сфейлилась! Щось пішло не так у методі GetAllEventsAsync() - {ex.Message}");
-                return StatusCode(StatusCodes.Status500InternalServerError, "вот так вот!");
+                Console.WriteLine("Error in [MovieController]->[GetByIdAsync]\n " + ex.Message);
+                return BadRequest(ex.Message);
             }
         }
 
-        //POST: api/events
-        [HttpPost]
-        public async Task<ActionResult> PostEventAsync([FromBody] Movie evnt)
+
+
+
+        [HttpPost] // POST: ado/Movie
+        public async Task<ActionResult> AddAsync(MovieDTO newMovie)
         {
             try
             {
-                if (evnt == null)
+                // Чи введені валідні данні
+                if (newMovie.title == null)
                 {
-                    _logger.LogInformation($"Ми отримали пустий json зі сторони клієнта");
-                    return BadRequest("Обєкт івенту є null");
+                    return BadRequest("Invalid information");
                 }
-                if (!ModelState.IsValid)
+                else
                 {
-                    _logger.LogInformation($"Ми отримали некоректний json зі сторони клієнта");
-                    return BadRequest("Обєкт івенту є некоректним");
+                    var id = await _movieService.CreateAsync(newMovie);
+                    Console.WriteLine($"Movie {id} successfully added to [Movie]");
+
+                    return Ok(id);
                 }
-                var created_id = await _ADOuow._movieRepository.AddAsync(evnt);
-                _ADOuow.Commit();
-                return StatusCode(StatusCodes.Status201Created);
             }
             catch (Exception ex)
             {
-                _logger.LogError($"Транзакція сфейлилась! Щось пішло не так у методі PostEventAsync - {ex.Message}");
-                return StatusCode(StatusCodes.Status500InternalServerError, "вот так вот!");
+                Console.WriteLine("Error in [MovieConstoller]->[AddAsync]\n " + ex.Message);
+                return BadRequest(ex.Message);
             }
         }
 
-        //POST: api/events/id
-        [HttpPut("{id}")]
-        public async Task<ActionResult> UpdateEventAsync(int id, [FromBody] Movie evnt)
+        [HttpPut] // PUT: ado/Movie
+        public async Task<ActionResult> UpdateAsync(MovieDTO upMovie)
         {
             try
             {
-                if (evnt == null)
+                // Чи введені валідні данні
+                if (upMovie.title == null)
                 {
-                    _logger.LogInformation($"Ми отримали пустий json зі сторони клієнта");
-                    return BadRequest("Обєкт івенту є null");
+                    return BadRequest("Invalid information");
                 }
-                if (!ModelState.IsValid)
+                else
                 {
-                    _logger.LogInformation($"Ми отримали некоректний json зі сторони клієнта");
-                    return BadRequest("Обєкт івенту є некоректним");
-                }
+                    var result = await _movieService.GetAsync(upMovie.movie_id); // чи взагалі є такий запис в БД
 
-                var event_entity =  await _ADOuow._movieRepository.GetAsync(id);
-                if(event_entity == null)
-                {
-                    _logger.LogInformation($"Івент із Id: {id}, не був знайдейний у базі даних");
-                    return NotFound();
-                }
+                    if (result == null)
+                    {
+                        Console.WriteLine($"Movie {upMovie.movie_id} from [Movie] not found");
+                        return NotFound();
+                    }
+                    else
+                    {
+                        await _movieService.UpdateAsync(upMovie);
+                        Console.WriteLine($"Movie {upMovie.movie_id} successfully update to [Movie]");
 
-                 await _ADOuow._movieRepository.ReplaceAsync(evnt);
-                _ADOuow.Commit();
-                return StatusCode(StatusCodes.Status204NoContent);
+                        return Ok();
+                    }
+                }
             }
             catch (Exception ex)
             {
-                _logger.LogError($"Транзакція сфейлилась! Щось пішло не так у методі PostEventAsync - {ex.Message}");
-                return StatusCode(StatusCodes.Status500InternalServerError, "вот так вот!");
+                Console.WriteLine("Error in [MovieConstoller]->[UpdateAsync]\n " + ex.Message);
+                return BadRequest(ex.Message);
             }
         }
 
-        //GET: api/events/Id
-        [HttpDelete("{id}")]
+        [HttpDelete("{id}")] // DELETE: ado/Movie/id
         public async Task<ActionResult> DeleteByIdAsync(int id)
         {
             try
             {
-                var event_entity = await _ADOuow._movieRepository.GetAsync(id);
-                if (event_entity == null)
+                var result = await _movieService.GetAsync(id);
+
+                if (result == null)
                 {
-                    _logger.LogInformation($"Івент із Id: {id}, не був знайдейний у базі даних");
+                    Console.WriteLine($"Movie {id} from [Movie] not found");
                     return NotFound();
                 }
+                else
+                {
+                    await _movieService.DeleteAsync(id);
+                    Console.WriteLine($"Movie {id} successfully deleted to [Movie]");
 
-                await _ADOuow._movieRepository.DeleteAsync(id);
-                _ADOuow.Commit();
-                return NoContent();
+                    return Ok();
+                }
             }
             catch (Exception ex)
             {
-                _logger.LogError($"Транзакція сфейлилась! Щось пішло не так у методі GetAllEventsAsync() - {ex.Message}");
-                return StatusCode(StatusCodes.Status500InternalServerError, "вот так вот!");
+                Console.WriteLine("Error in [MovieConstoller]->[UpdateAsync]\n " + ex.Message);
+                return BadRequest(ex.Message);
             }
         }
-
     }
 }

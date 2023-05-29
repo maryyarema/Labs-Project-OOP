@@ -1,12 +1,13 @@
 ﻿namespace MovieManagement.DAL.Repositories.Contracts
 {
-    public interface IGenericRepository<T>
+    public interface IGenericRepository<TEntity>
     {
-        Task<IEnumerable<T>> GetAllAsync();
+        Task<int> CreateAsync(TEntity entity);
+        Task<TEntity> GetByIdAsync(int id);
+        Task<IEnumerable<TEntity>> GetAllAsync();
+        Task UpdateAsync(TEntity entity);
         Task DeleteAsync(int id);
-        Task<T> GetAsync(int id);
-        Task<int> AddRangeAsync(IEnumerable<T> list);
-        Task ReplaceAsync(T t);
-        Task<int> AddAsync(T t);
+
+       
     }
 }

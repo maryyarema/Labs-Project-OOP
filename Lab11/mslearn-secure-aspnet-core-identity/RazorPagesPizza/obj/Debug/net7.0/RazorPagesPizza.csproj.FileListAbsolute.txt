@@ -1,0 +1,858 @@
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\appsettings.json
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.staticwebassets.runtime.json
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.exe
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.deps.json
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.runtimeconfig.json
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Humanizer.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\MessagePack.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\MessagePack.Annotations.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Build.Locator.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.csproj.AssemblyReference.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.AssemblyInfoInputs.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.AssemblyInfo.cs
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.csproj.CoreCompileInputs.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.RazorAssemblyInfo.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.RazorAssemblyInfo.cs
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets\msbuild.RazorPagesPizza.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets\msbuild.build.RazorPagesPizza.props
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesPizza.props
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RazorPagesPizza.props
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\scopedcss\bundle\RazorPagesPizza.styles.css
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\scopedcss\projectbundle\RazorPagesPizza.bundle.scp.css
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.csproj.CopyComplete
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\refint\RazorPagesPizza.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.genruntimeconfig.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\ref\RazorPagesPizza.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\QRCoder.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\appsettings.Development.json
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\appsettings.json
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.staticwebassets.runtime.json
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.exe
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.deps.json
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.runtimeconfig.json
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.pdb
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Azure.Core.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Azure.Identity.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Humanizer.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\MessagePack.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\MessagePack.Annotations.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Build.Locator.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Common.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\QRCoder.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.CodeDom.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.csproj.AssemblyReference.cache
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.AssemblyInfoInputs.cache
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.AssemblyInfo.cs
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.csproj.CoreCompileInputs.cache
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.MvcApplicationPartsAssemblyInfo.cs
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.MvcApplicationPartsAssemblyInfo.cache
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.RazorAssemblyInfo.cache
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.RazorAssemblyInfo.cs
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets\msbuild.RazorPagesPizza.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets\msbuild.build.RazorPagesPizza.props
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesPizza.props
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RazorPagesPizza.props
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets.build.json
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets.development.json
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\scopedcss\bundle\RazorPagesPizza.styles.css
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\scopedcss\projectbundle\RazorPagesPizza.bundle.scp.css
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.csproj.CopyComplete
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\refint\RazorPagesPizza.dll
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.pdb
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.genruntimeconfig.cache
+D:\Навчання\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\ref\RazorPagesPizza.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\appsettings.Development.json
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\appsettings.json
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.staticwebassets.runtime.json
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.exe
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.deps.json
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.runtimeconfig.json
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\RazorPagesPizza.pdb
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Azure.Core.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Azure.Identity.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Humanizer.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\MessagePack.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\MessagePack.Annotations.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Build.Locator.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Common.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\QRCoder.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.CodeDom.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.csproj.AssemblyReference.cache
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.AssemblyInfoInputs.cache
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.AssemblyInfo.cs
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.csproj.CoreCompileInputs.cache
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.MvcApplicationPartsAssemblyInfo.cs
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.RazorAssemblyInfo.cache
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.RazorAssemblyInfo.cs
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets\msbuild.RazorPagesPizza.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets\msbuild.build.RazorPagesPizza.props
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesPizza.props
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RazorPagesPizza.props
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets.build.json
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\staticwebassets.development.json
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\scopedcss\bundle\RazorPagesPizza.styles.css
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\scopedcss\projectbundle\RazorPagesPizza.bundle.scp.css
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.csproj.CopyComplete
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\refint\RazorPagesPizza.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.pdb
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\RazorPagesPizza.genruntimeconfig.cache
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab11_Identity\mslearn-secure-aspnet-core-identity\RazorPagesPizza\obj\Debug\net7.0\ref\RazorPagesPizza.dll

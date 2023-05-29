@@ -3,23 +3,35 @@ using System.Data;
 
 namespace MovieManagement.DAL.Repositories
 {
-    public class UnitOfWork : IUnitOfWork, IDisposable
+    public class UnitOfWork : IUnitOfWork
     {
-
-        public IMovieRepository _movieRepository { get; }
+        public  IMovieRepository _movieRepository { get; }
+        public IActorRepository  _actorRepository { get; }
+        public ICategoryRepository _categoryRepository { get; }
+        public IMovieActorRepository _movieActorRepository { get; }
+        public IMovieCategoryRepository _movieCategoryRepository { get; }
 
         readonly IDbTransaction _dbTransaction;
 
         public UnitOfWork(
             
-            IMovieRepository movieRepository,
+
+         IMovieRepository movieRepository,
+        IActorRepository actorRepository,
+        ICategoryRepository  categoryRepository ,
+        IMovieActorRepository movieActorRepository ,
+         IMovieCategoryRepository movieCategoryRepository ,
            
             IDbTransaction dbTransaction)
         {
-          
-       
-            _movieRepository = movieRepository;
-           
+
+
+            this._movieRepository = movieRepository;
+            this._actorRepository = actorRepository;
+            this._categoryRepository = categoryRepository;
+            this._movieActorRepository = movieActorRepository;
+            this._movieCategoryRepository = movieCategoryRepository;
+                       
             _dbTransaction = dbTransaction;
         }
 
