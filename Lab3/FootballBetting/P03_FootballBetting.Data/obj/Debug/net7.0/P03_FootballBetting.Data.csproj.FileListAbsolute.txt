@@ -1,0 +1,34 @@
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting.Data\bin\Debug\net7.0\P03_FootballBetting.Data.deps.json
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting.Data\bin\Debug\net7.0\P03_FootballBetting.Data.runtimeconfig.json
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting.Data\bin\Debug\net7.0\P03_FootballBetting.Data.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting.Data\bin\Debug\net7.0\P03_FootballBetting.Data.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting.Data\bin\Debug\net7.0\P03_FootballBetting.Data.Models.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting.Data\bin\Debug\net7.0\P03_FootballBetting.Data.Models.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.csproj.AssemblyReference.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.AssemblyInfoInputs.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.AssemblyInfo.cs
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.csproj.CoreCompileInputs.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.csproj.CopyComplete
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\refint\P03_FootballBetting.Data.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.genruntimeconfig.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\ref\P03_FootballBetting.Data.dll
+C:\Users\Mariia\Desktop\OOP\Lab3\FootballBetting\P03_FootballBetting.Data\bin\Debug\net7.0\P03_FootballBetting.Data.deps.json
+C:\Users\Mariia\Desktop\OOP\Lab3\FootballBetting\P03_FootballBetting.Data\bin\Debug\net7.0\P03_FootballBetting.Data.runtimeconfig.json
+C:\Users\Mariia\Desktop\OOP\Lab3\FootballBetting\P03_FootballBetting.Data\bin\Debug\net7.0\P03_FootballBetting.Data.dll
+C:\Users\Mariia\Desktop\OOP\Lab3\FootballBetting\P03_FootballBetting.Data\bin\Debug\net7.0\P03_FootballBetting.Data.pdb
+C:\Users\Mariia\Desktop\OOP\Lab3\FootballBetting\P03_FootballBetting.Data\bin\Debug\net7.0\P03_FootballBetting.Data.Models.dll
+C:\Users\Mariia\Desktop\OOP\Lab3\FootballBetting\P03_FootballBetting.Data\bin\Debug\net7.0\P03_FootballBetting.Data.Models.pdb
+C:\Users\Mariia\Desktop\OOP\Lab3\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.csproj.AssemblyReference.cache
+C:\Users\Mariia\Desktop\OOP\Lab3\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariia\Desktop\OOP\Lab3\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.AssemblyInfoInputs.cache
+C:\Users\Mariia\Desktop\OOP\Lab3\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.AssemblyInfo.cs
+C:\Users\Mariia\Desktop\OOP\Lab3\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mariia\Desktop\OOP\Lab3\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.csproj.CopyComplete
+C:\Users\Mariia\Desktop\OOP\Lab3\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.dll
+C:\Users\Mariia\Desktop\OOP\Lab3\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\refint\P03_FootballBetting.Data.dll
+C:\Users\Mariia\Desktop\OOP\Lab3\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.pdb
+C:\Users\Mariia\Desktop\OOP\Lab3\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\P03_FootballBetting.Data.genruntimeconfig.cache
+C:\Users\Mariia\Desktop\OOP\Lab3\FootballBetting\P03_FootballBetting.Data\obj\Debug\net7.0\ref\P03_FootballBetting.Data.dll

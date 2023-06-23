@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BlazingPizza"
+    "\\BlazingPizza",
+    "\\BlazingPizza\\Pages",
+    "\\BlazingPizza\\Properties",
+    "\\BlazingPizza\\Shared"
   ],
-  "SelectedNode": "\\BlazingPizza\\SpecialsController.cs",
+  "SelectedNode": "\\BlazingPizza\\Shared\\ConfigurePizzaDialog.razor",
   "PreviewInSolutionExplorer": false
 }

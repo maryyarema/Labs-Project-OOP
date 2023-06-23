@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\P03_SalesDatabase",
+    "\\P03_SalesDatabase.Data",
+    "\\P03_SalesDatabase.Data\\Migrations"
+  ],
+  "SelectedNode": "\\P03_SalesDatabase.Data\\Migrations\\20230506121024_ProductsAddColumnDescription.cs",
+  "PreviewInSolutionExplorer": false
+}

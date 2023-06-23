@@ -1,0 +1,34 @@
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\03\BillsPaymentSystem\P01_BillsPaymentSystem.Data\bin\Debug\net7.0\P01_BillsPaymentSystem.Data.deps.json
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\03\BillsPaymentSystem\P01_BillsPaymentSystem.Data\bin\Debug\net7.0\P01_BillsPaymentSystem.Data.runtimeconfig.json
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\03\BillsPaymentSystem\P01_BillsPaymentSystem.Data\bin\Debug\net7.0\P01_BillsPaymentSystem.Data.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\03\BillsPaymentSystem\P01_BillsPaymentSystem.Data\bin\Debug\net7.0\P01_BillsPaymentSystem.Data.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\03\BillsPaymentSystem\P01_BillsPaymentSystem.Data\bin\Debug\net7.0\P01_BillsPaymentSystem.Data.Models.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\03\BillsPaymentSystem\P01_BillsPaymentSystem.Data\bin\Debug\net7.0\P01_BillsPaymentSystem.Data.Models.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\03\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.csproj.AssemblyReference.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\03\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\03\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\03\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.AssemblyInfo.cs
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\03\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\03\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.csproj.CopyComplete
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\03\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\03\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\refint\P01_BillsPaymentSystem.Data.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\03\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\03\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.genruntimeconfig.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\03\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\ref\P01_BillsPaymentSystem.Data.dll
+C:\Users\Mariia\Desktop\OOP\Lab4\BillsPaymentSystem\P01_BillsPaymentSystem.Data\bin\Debug\net7.0\P01_BillsPaymentSystem.Data.deps.json
+C:\Users\Mariia\Desktop\OOP\Lab4\BillsPaymentSystem\P01_BillsPaymentSystem.Data\bin\Debug\net7.0\P01_BillsPaymentSystem.Data.runtimeconfig.json
+C:\Users\Mariia\Desktop\OOP\Lab4\BillsPaymentSystem\P01_BillsPaymentSystem.Data\bin\Debug\net7.0\P01_BillsPaymentSystem.Data.dll
+C:\Users\Mariia\Desktop\OOP\Lab4\BillsPaymentSystem\P01_BillsPaymentSystem.Data\bin\Debug\net7.0\P01_BillsPaymentSystem.Data.pdb
+C:\Users\Mariia\Desktop\OOP\Lab4\BillsPaymentSystem\P01_BillsPaymentSystem.Data\bin\Debug\net7.0\P01_BillsPaymentSystem.Data.Models.dll
+C:\Users\Mariia\Desktop\OOP\Lab4\BillsPaymentSystem\P01_BillsPaymentSystem.Data\bin\Debug\net7.0\P01_BillsPaymentSystem.Data.Models.pdb
+C:\Users\Mariia\Desktop\OOP\Lab4\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.csproj.AssemblyReference.cache
+C:\Users\Mariia\Desktop\OOP\Lab4\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariia\Desktop\OOP\Lab4\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+C:\Users\Mariia\Desktop\OOP\Lab4\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.AssemblyInfo.cs
+C:\Users\Mariia\Desktop\OOP\Lab4\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mariia\Desktop\OOP\Lab4\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.csproj.CopyComplete
+C:\Users\Mariia\Desktop\OOP\Lab4\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.dll
+C:\Users\Mariia\Desktop\OOP\Lab4\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\refint\P01_BillsPaymentSystem.Data.dll
+C:\Users\Mariia\Desktop\OOP\Lab4\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.pdb
+C:\Users\Mariia\Desktop\OOP\Lab4\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\P01_BillsPaymentSystem.Data.genruntimeconfig.cache
+C:\Users\Mariia\Desktop\OOP\Lab4\BillsPaymentSystem\P01_BillsPaymentSystem.Data\obj\Debug\net7.0\ref\P01_BillsPaymentSystem.Data.dll

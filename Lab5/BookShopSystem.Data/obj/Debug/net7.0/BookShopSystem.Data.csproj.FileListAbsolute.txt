@@ -1,0 +1,85 @@
+C:\Users\User\Desktop\LabEF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.deps.json
+C:\Users\User\Desktop\LabEF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.runtimeconfig.json
+C:\Users\User\Desktop\LabEF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.dll
+C:\Users\User\Desktop\LabEF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.pdb
+C:\Users\User\Desktop\LabEF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Models.dll
+C:\Users\User\Desktop\LabEF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Models.pdb
+C:\Users\User\Desktop\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.csproj.CopyComplete
+C:\Users\User\Desktop\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.dll
+C:\Users\User\Desktop\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\refint\BookShopSystem.Data.dll
+C:\Users\User\Desktop\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.pdb
+C:\Users\User\Desktop\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.genruntimeconfig.cache
+C:\Users\User\Desktop\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\ref\BookShopSystem.Data.dll
+C:\Users\User\Desktop\EF Labs\LabEF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.deps.json
+C:\Users\User\Desktop\EF Labs\LabEF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.runtimeconfig.json
+C:\Users\User\Desktop\EF Labs\LabEF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.dll
+C:\Users\User\Desktop\EF Labs\LabEF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.pdb
+C:\Users\User\Desktop\EF Labs\LabEF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Models.dll
+C:\Users\User\Desktop\EF Labs\LabEF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Models.pdb
+C:\Users\User\Desktop\EF Labs\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\EF Labs\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\EF Labs\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EF Labs\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\EF Labs\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EF Labs\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.csproj.CopyComplete
+C:\Users\User\Desktop\EF Labs\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.dll
+C:\Users\User\Desktop\EF Labs\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\refint\BookShopSystem.Data.dll
+C:\Users\User\Desktop\EF Labs\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.pdb
+C:\Users\User\Desktop\EF Labs\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.genruntimeconfig.cache
+C:\Users\User\Desktop\EF Labs\LabEF-04\BookShopSystem.Data\obj\Debug\net7.0\ref\BookShopSystem.Data.dll
+C:\Users\User\Desktop\EF Labs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.deps.json
+C:\Users\User\Desktop\EF Labs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.runtimeconfig.json
+C:\Users\User\Desktop\EF Labs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.dll
+C:\Users\User\Desktop\EF Labs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.pdb
+C:\Users\User\Desktop\EF Labs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Models.dll
+C:\Users\User\Desktop\EF Labs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Models.pdb
+C:\Users\User\Desktop\EF Labs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\EF Labs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\EF Labs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EF Labs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\EF Labs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EF Labs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.csproj.CopyComplete
+C:\Users\User\Desktop\EF Labs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.dll
+C:\Users\User\Desktop\EF Labs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\refint\BookShopSystem.Data.dll
+C:\Users\User\Desktop\EF Labs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.pdb
+C:\Users\User\Desktop\EF Labs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.genruntimeconfig.cache
+C:\Users\User\Desktop\EF Labs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\ref\BookShopSystem.Data.dll
+D:\Навчання\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.deps.json
+D:\Навчання\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.runtimeconfig.json
+D:\Навчання\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.dll
+D:\Навчання\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.pdb
+D:\Навчання\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Models.dll
+D:\Навчання\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Models.pdb
+D:\Навчання\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.csproj.AssemblyReference.cache
+D:\Навчання\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.AssemblyInfoInputs.cache
+D:\Навчання\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.AssemblyInfo.cs
+D:\Навчання\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.csproj.CoreCompileInputs.cache
+D:\Навчання\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.csproj.CopyComplete
+D:\Навчання\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.dll
+D:\Навчання\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\refint\BookShopSystem.Data.dll
+D:\Навчання\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.pdb
+D:\Навчання\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.genruntimeconfig.cache
+D:\Навчання\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\ref\BookShopSystem.Data.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.deps.json
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.runtimeconfig.json
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Data.pdb
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Models.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\bin\Debug\net7.0\BookShopSystem.Models.pdb
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.csproj.AssemblyReference.cache
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.AssemblyInfoInputs.cache
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.AssemblyInfo.cs
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.csproj.CoreCompileInputs.cache
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.csproj.CopyComplete
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\refint\BookShopSystem.Data.dll
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.pdb
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\BookShopSystem.Data.genruntimeconfig.cache
+C:\Навчання\3семестр\OOP\Lab_11\Practical\II\Lab2-5_EFLabs\EF-04\BookShopSystem.Data\obj\Debug\net7.0\ref\BookShopSystem.Data.dll

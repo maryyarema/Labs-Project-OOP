@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookShopSystem.Data",
+    "\\BookShopSystem.Data\\Configuration",
+    "\\BookShopSystem.Data\\Migrations",
+    "\\BookShopSystem.Data\\Seeding",
+    "\\BookShopSystem.Models",
+    "\\BookShopSystem.StartUp",
+    "\\BookShopSystem.StartUp\\Methods"
+  ],
+  "SelectedNode": "\\EF-04.sln",
+  "PreviewInSolutionExplorer": false
+}

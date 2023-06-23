@@ -1,0 +1,5 @@
+C:\Users\Mariia\Desktop\OOP\5\clone\Project\UserManagement_EF\UserManagementEF\UserManagementEF.DAL\UserManagementEF.DAL\obj\Debug\net7.0\UserManagementEF.csproj.AssemblyReference.cache
+C:\Users\Mariia\Desktop\OOP\5\clone\Project\UserManagement_EF\UserManagementEF\UserManagementEF.DAL\UserManagementEF.DAL\obj\Debug\net7.0\UserManagementEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariia\Desktop\OOP\5\clone\Project\UserManagement_EF\UserManagementEF\UserManagementEF.DAL\UserManagementEF.DAL\obj\Debug\net7.0\UserManagementEF.AssemblyInfoInputs.cache
+C:\Users\Mariia\Desktop\OOP\5\clone\Project\UserManagement_EF\UserManagementEF\UserManagementEF.DAL\UserManagementEF.DAL\obj\Debug\net7.0\UserManagementEF.AssemblyInfo.cs
+C:\Users\Mariia\Desktop\OOP\5\clone\Project\UserManagement_EF\UserManagementEF\UserManagementEF.DAL\UserManagementEF.DAL\obj\Debug\net7.0\UserManagementEF.csproj.CoreCompileInputs.cache

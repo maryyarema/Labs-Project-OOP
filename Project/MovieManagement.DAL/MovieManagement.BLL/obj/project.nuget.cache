@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aRvM5mUBGPfGDVWblbd/PGM2JBEkrzX0ng1Xr31xUy2UZY7rXuUGnUUIcAl96uYj8rpgnO5PqZX0OURXb3amuQ==",
+  "dgSpecHash": "2R9MlgjfM9VM7XWB3VDtnBPJFLzLPaFO54q/1c1AfRa/GFyNGT471H3WWg8JgpCnJmTOxshPGwRXUdakO76SYg==",
   "success": true,
-  "projectFilePath": "C:\\Навчання\\3семестр\\OOP\\5\\clone\\Project\\MovieManagement.DAL\\MovieManagement.BLL\\MovieManagement.BLL.csproj",
+  "projectFilePath": "C:\\Users\\Mariia\\Desktop\\OOP\\5\\clone\\Project\\MovieManagement.DAL\\MovieManagement.BLL\\MovieManagement.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mariia\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Mariia\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -1,0 +1,34 @@
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P03_SalesDatabase\P03_SalesDatabase.Data\bin\Debug\net7.0\P03_SalesDatabase.Data.deps.json
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P03_SalesDatabase\P03_SalesDatabase.Data\bin\Debug\net7.0\P03_SalesDatabase.Data.runtimeconfig.json
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P03_SalesDatabase\P03_SalesDatabase.Data\bin\Debug\net7.0\P03_SalesDatabase.Data.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P03_SalesDatabase\P03_SalesDatabase.Data\bin\Debug\net7.0\P03_SalesDatabase.Data.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P03_SalesDatabase\P03_SalesDatabase.Data\bin\Debug\net7.0\P03_SalesDatabase.Data.Models.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P03_SalesDatabase\P03_SalesDatabase.Data\bin\Debug\net7.0\P03_SalesDatabase.Data.Models.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P03_SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.csproj.AssemblyReference.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P03_SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P03_SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.AssemblyInfoInputs.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P03_SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.AssemblyInfo.cs
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P03_SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.csproj.CoreCompileInputs.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P03_SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.csproj.CopyComplete
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P03_SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P03_SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\refint\P03_SalesDatabase.Data.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P03_SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P03_SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.genruntimeconfig.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\01\P03_SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\ref\P03_SalesDatabase.Data.dll
+C:\Users\Mariia\Desktop\OOP\Lab2\SalesDatabase\P03_SalesDatabase.Data\bin\Debug\net7.0\P03_SalesDatabase.Data.deps.json
+C:\Users\Mariia\Desktop\OOP\Lab2\SalesDatabase\P03_SalesDatabase.Data\bin\Debug\net7.0\P03_SalesDatabase.Data.runtimeconfig.json
+C:\Users\Mariia\Desktop\OOP\Lab2\SalesDatabase\P03_SalesDatabase.Data\bin\Debug\net7.0\P03_SalesDatabase.Data.dll
+C:\Users\Mariia\Desktop\OOP\Lab2\SalesDatabase\P03_SalesDatabase.Data\bin\Debug\net7.0\P03_SalesDatabase.Data.pdb
+C:\Users\Mariia\Desktop\OOP\Lab2\SalesDatabase\P03_SalesDatabase.Data\bin\Debug\net7.0\P03_SalesDatabase.Data.Models.dll
+C:\Users\Mariia\Desktop\OOP\Lab2\SalesDatabase\P03_SalesDatabase.Data\bin\Debug\net7.0\P03_SalesDatabase.Data.Models.pdb
+C:\Users\Mariia\Desktop\OOP\Lab2\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.csproj.AssemblyReference.cache
+C:\Users\Mariia\Desktop\OOP\Lab2\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariia\Desktop\OOP\Lab2\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.AssemblyInfoInputs.cache
+C:\Users\Mariia\Desktop\OOP\Lab2\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.AssemblyInfo.cs
+C:\Users\Mariia\Desktop\OOP\Lab2\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mariia\Desktop\OOP\Lab2\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.csproj.CopyComplete
+C:\Users\Mariia\Desktop\OOP\Lab2\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.dll
+C:\Users\Mariia\Desktop\OOP\Lab2\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\refint\P03_SalesDatabase.Data.dll
+C:\Users\Mariia\Desktop\OOP\Lab2\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.pdb
+C:\Users\Mariia\Desktop\OOP\Lab2\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\P03_SalesDatabase.Data.genruntimeconfig.cache
+C:\Users\Mariia\Desktop\OOP\Lab2\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net7.0\ref\P03_SalesDatabase.Data.dll

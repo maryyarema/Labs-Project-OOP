@@ -3217,11 +3217,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Навчання\\3семестр\\OOP\\5\\clone\\Project\\MovieManagement.DAL\\MovieManagement.DAL\\MovieManagement.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Mariia\\Desktop\\OOP\\5\\clone\\Project\\MovieManagement.DAL\\MovieManagement.DAL\\MovieManagement.DAL.csproj",
       "projectName": "MovieManagement.DAL",
-      "projectPath": "C:\\Навчання\\3семестр\\OOP\\5\\clone\\Project\\MovieManagement.DAL\\MovieManagement.DAL\\MovieManagement.DAL.csproj",
+      "projectPath": "C:\\Users\\Mariia\\Desktop\\OOP\\5\\clone\\Project\\MovieManagement.DAL\\MovieManagement.DAL\\MovieManagement.DAL.csproj",
       "packagesPath": "C:\\Users\\Mariia\\.nuget\\packages\\",
-      "outputPath": "C:\\Навчання\\3семестр\\OOP\\5\\clone\\Project\\MovieManagement.DAL\\MovieManagement.DAL\\obj\\",
+      "outputPath": "C:\\Users\\Mariia\\Desktop\\OOP\\5\\clone\\Project\\MovieManagement.DAL\\MovieManagement.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
